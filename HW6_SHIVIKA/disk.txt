@@ -1,0 +1,2048 @@
+---------- BLOCK #  0 ---------
+Blocks Assigned: 1             
+      File Size: 32            
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 1             
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr: 0             
+---------- BLOCK #  1 ---------
+myfile_3 : 2                   
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #  2 ---------
+Blocks Assigned: 9             
+      File Size: 4026          
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 3             
+Block Address 1: 4             
+Block Address 2: 5             
+Block Address 3: 6             
+Block Address 4: 7             
+Block Address 5: 8             
+Block Address 6: 9             
+Block Address 7: 10            
+Next iNode Addr: 11            
+---------- BLOCK #  3 ---------
+That this House welcomes the fo
+rmation of a Government represe
+nting the united and inflexible
+ resolve of the nation to prose
+cute the war with Germany to a 
+victorious conclusion.On Friday
+ evening last I received His Ma
+jesty's commission to form a ne
+w Administration. It as the evi
+dent wish and will of Parliamen
+t and the nation that this shou
+ld be conceived on the broadest
+ possible basis and that it sho
+uld include all parties, both t
+hose who supported the late Gov
+---------- BLOCK #  4 ---------
+ernment and also the parties of
+ the Opposition. I have complet
+ed the most important part of t
+his task. A War Cabinet has bee
+n formed of five Members, repre
+senting, with the Opposition Li
+berals, the unity of the nation
+. The three party Leaders have 
+agreed to serve, either in the 
+War Cabinet or in high executiv
+e office. The three Fighting Se
+rvices have been filled. It was
+ necessary that this should be 
+done in one single day, on acco
+unt of the extreme urgency and 
+---------- BLOCK #  5 ---------
+rigour of events. A number of o
+ther positions, key positions, 
+were filled yesterday, and I am
+ submitting a further list to H
+is Majesty to-night. I hope to 
+complete the appointment of the
+ principal Ministers during to-
+morrow. The appointment of the 
+other Ministers usually takes a
+ little longer, but I trust tha
+t, when Parliament meets again,
+ this part of my task will be c
+ompleted, and that the administ
+ration will be complete in all 
+respects. I considered it in th
+---------- BLOCK #  6 ---------
+e public interest to suggest th
+at the House should be summoned
+ to meet today. Mr. Speaker agr
+eed, and took the necessary ste
+ps, in accordance with the powe
+rs conferred upon him by the Re
+solution of the House. At the e
+nd of the proceedings today, th
+e Adjournment of the House will
+ be proposed until Tuesday, 21s
+t May, with, of course, provisi
+on for earlier meeting, if need
+ be. The business to be conside
+red during that week will be no
+tified to Members at the earlie
+---------- BLOCK #  7 ---------
+st opportunity. I now invite th
+e House, by the Motion which st
+ands in my name, to record its 
+approval of the steps taken and
+ to declare its confidence in t
+he new Government.To form an Ad
+ministration of this scale and 
+complexity is a serious underta
+king in itself, but it must be 
+remembered that we are in the p
+reliminary stage of one of the 
+greatest battles in history, th
+at we are in action at many oth
+er points in Norway and in Holl
+and, that we have to be prepare
+---------- BLOCK #  8 ---------
+d in the Mediterranean, that th
+e air battle is continuous and 
+that many preparations, such as
+ have been indicated by my hon.
+ Friend below the Gangway, have
+ to be made here at home. In th
+is crisis I hope I may be pardo
+ned if I do not address the Hou
+se at any length today. I hope 
+that any of my friends and coll
+eagues, or former colleagues, w
+ho are affected by the politica
+l reconstruction, will make all
+owance, all allowance, for any 
+lack of ceremony with which it 
+---------- BLOCK #  9 ---------
+has been necessary to act. I wo
+uld say to the House, as I said
+ to those who have joined this 
+government: "I have nothing to 
+offer but blood, toil, tears an
+d sweat."We have before us an o
+rdeal of the most grievous kind
+. We have before us many, many 
+long months of struggle and of 
+suffering. You ask, what is our
+ policy? I can say: It is to wa
+ge war, by sea, land and air, w
+ith all our might and with all 
+the strength that God can give 
+us; to wage war against a monst
+---------- BLOCK # 10 ---------
+rous tyranny, never surpassed i
+n the dark, lamentable catalogu
+e of human crime. That is our p
+olicy. You ask, what is our aim
+? I can answer in one word: It 
+is victory, victory at all cost
+s, victory in spite of all terr
+or, victory, however long and h
+ard the road may be; for withou
+t victory, there is no survival
+. Let that be realised; no surv
+ival for the British Empire, no
+ survival for all that the Brit
+ish Empire has stood for, no su
+rvival for the urge and impulse
+---------- BLOCK # 11 ---------
+Blocks Assigned: 1             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 12            
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr:               
+---------- BLOCK # 12 ---------
+ of the ages, that mankind will
+ move forward towards its goal.
+ But I take up my task with buo
+yancy and hope. I feel sure tha
+t our cause will not be suffere
+d to fail among men. At this ti
+me I feel entitled to claim the
+ aid of all, and I say, "come t
+hen, let us go forward together
+ with our united strength."    
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 13 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 14 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 15 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 16 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 17 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 18 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 19 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 20 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 21 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 22 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 23 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 24 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 25 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 26 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 27 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 28 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 29 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 30 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 31 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 32 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 33 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 34 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 35 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 36 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 37 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 38 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 39 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 40 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 41 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 42 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 43 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 44 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 45 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 46 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 47 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 48 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 49 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 50 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 51 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 52 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 53 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 54 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 55 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 56 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 57 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 58 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 59 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 60 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 61 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 62 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 63 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 64 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 65 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 66 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 67 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 68 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 69 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 70 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 71 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 72 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 73 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 74 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 75 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 76 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 77 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 78 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 79 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 80 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 81 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 82 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 83 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 84 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 85 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 86 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 87 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 88 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 89 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 90 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 91 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 92 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 93 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 94 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 95 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 96 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 97 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 98 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 99 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #100 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #101 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #102 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #103 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #104 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #105 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #106 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #107 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #108 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #109 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #110 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #111 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #112 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #113 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #114 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #115 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #116 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #117 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #118 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #119 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #120 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #121 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #122 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #123 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #124 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #125 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #126 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #127 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               

@@ -1,0 +1,10 @@
+CRET jfk_file
+COPY jfk_moon jfk_file
+CRET gb_addrs
+COPY getyburg gb_addrs
+CRET myfile_3
+COPY churchil myfile_3
+CRET jfk_inag
+COPY jfk_addr jfk_inag
+READ myfile_3
+DELT myfile_3
